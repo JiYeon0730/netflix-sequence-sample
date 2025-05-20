@@ -24,5 +24,5 @@ sequenceDiagram
 
 ## 📊 시퀀스 다이어그램 이미지
 
-![시퀀스 다이어그램] ![Image](https://github.com/user-attachments/assets/18733962-2df0-49ba-9fb3-ee4da80ac016)
+[시퀀스 다이어그램] ![Image](https://github.com/user-attachments/assets/18733962-2df0-49ba-9fb3-ee4da80ac016)
 
