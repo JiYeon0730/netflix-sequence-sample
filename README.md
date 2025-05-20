@@ -21,3 +21,5 @@ sequenceDiagram
     App->>ContentServer: 스트리밍 시작 요청
     ContentServer-->>App: 스트리밍 데이터 전송
     App-->>User: 영화 재생
+
+[시퀀스 다이어그램] (https://github.com/JiYeon0730/netflix-sequence-sample/blob/main/Editor%20_%20Mermaid%20Chart-2025-05-20-155017.png?raw=true)
