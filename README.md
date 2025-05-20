@@ -24,5 +24,5 @@ sequenceDiagram
 
 ## 📊 시퀀스 다이어그램 이미지
 
-![시퀀스 다이어그램] (https://github.com/JiYeon0730/netflix-sequence-sample/blob/344a38ee084464dee97dc4d25bc5965f0b21b45e/Editor%20_%20Mermaid%20Chart-2025-05-20-155017.png)
+![시퀀스 다이어그램] ![Image](https://github.com/user-attachments/assets/18733962-2df0-49ba-9fb3-ee4da80ac016)
 
